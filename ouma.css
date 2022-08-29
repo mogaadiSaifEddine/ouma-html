@@ -21,10 +21,9 @@ margin: -20px 0 50px;
 }
 
 .container {
-background-color: $white;
+background-color: white;
 border-radius: 5px;
-  box-shadow: 0 14px 28px rgba(0,0,0,0.25),
-0 10px 10px rgba(0,0,0,0.22);
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25),0 10px 10px rgba(0,0,0,0.22);
 position: relative;
 width: 768px;
 max-width: 100%;
